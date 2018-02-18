@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Ac AppLock Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/AcnTecGroup/Ac-AppLock.PrivacyPolicy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Your privacy is important to Ac AppLock. Sometimes we need information to provide services that you request, this privacy statement applies to Ac AppLock.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Personal Information
+We DO NOT collect, store or use any personal information while you visit, download or upgrade our products.
 
-### Markdown
+Non-Personal Information
+We may collect and use non-personal information in the following circumstances. To have a better understanding in user’s behavior, solve problems in products and services, improve our products, services and advertising
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main Permission used by Secure Gallery are described below.
+Camera & Recording Audio
+Used to take pictures and videos when an external user unsuccessfully tries to unlock after unsuccessful attempts.
 
-```markdown
-Syntax highlighted code block
+Get your account
+Used to identify users who have purchased an existing paid version.
 
-# Header 1
-## Header 2
-### Header 3
+Read phone state
+Used to lock incoming calls to prevent others from receiving them.
 
-- Bulleted
-- List
+Make phone calls and switch calls
+Used to lock outgoing calls.
 
-1. Numbered
-2. List
+SMS receive
+Used for remote lock (lock and unlock with SMS).
 
-**Bold** and _Italic_ and `Code` text
+Repository access
+Used to get the background of the lock screen, or to store backup files and so on.
 
-[Link](url) and ![Image](src)
-```
+Device Administrator
+Used to prevent AppLock being uninstalled and does not use any other Device Administrator functions.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Contact Us
+If you have any questions regarding this Privacy Policy, you may contact us at acntecgroup@gmail.com
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AcnTecGroup/Ac-AppLock.PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Privacy Policy | ⓒ Acn.Tec.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
